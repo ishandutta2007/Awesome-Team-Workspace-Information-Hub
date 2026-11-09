@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Team-Workspace-Information-Hub/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Team-Workspace-Information-Hub?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Team-Workspace-Information-Hub/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Team-Workspace-Information-Hub?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Team-Workspace-Information-Hub/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Team-Workspace-Information-Hub?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Team-Workspace-Information-Hub/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0-1.0"/></a>
   <a href="https://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
@@ -58,7 +58,7 @@ The table below outlines leading commercial cloud-hosted team workspace platform
 
 ## 🟩 Open-Source Software 🔓
 
-Self-hosted, community-driven team workspaces, documentation hubs, and collaborative wiki frameworks. The repositories below are sorted in **descending order of GitHub star count**:
+Self-hosted, community-driven team workspaces, documentation hubs, and collaborative wiki frameworks. The repositories below are sorted in **descending order of GitHub Stars_Count**:
 
 ### 1. AppFlowy 📱
 [![Repo Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)
@@ -253,7 +253,7 @@ Contributions are warmly welcomed! If you know of an actively maintained open-so
 
 1. Fork the repository.
 2. Ensure the project is actively maintained (active releases or commits within the last 12 months).
-3. If adding an open-source project, include an official GitHub star badge formatted as `[![Repo Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)` and place it in the sorted descending star position.
+3. If adding an open-source project, include an official GitHub Stars_Badge formatted as `[![Repo Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)` and place it in the sorted descending star position.
 4. If adding a SaaS product, specify exact starting tier pricing, free tier/trial limit parameters, and parent company scale metrics.
 5. Submit a descriptive Pull Request.
 
